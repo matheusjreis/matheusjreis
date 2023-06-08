@@ -33,10 +33,7 @@
             alt="typescript" width="40" height="40" /> </a> 
 </p>
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusjreis&show_icons=true&locale=en&layout=compact"
-        alt="matheusjreis" /></p>
+<h3 align="left">Github stats:</h3>
 
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=matheusjreis&label=Profile%20Views&color=6&pretty=false" />
-</a>
+![matheusjreis's Stats](https://github-readme-stats.vercel.app/api?username=matheusjreis&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![matheusjreis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusjreis&theme=dracula&hide_border=false)
+
