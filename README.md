@@ -34,6 +34,9 @@
 </p>
 
 <h3 align="left">Github stats:</h3>
-
-![matheusjreis's Stats](https://github-readme-stats.vercel.app/api?username=matheusjreis&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![matheusjreis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusjreis&theme=dracula&hide_border=false)
+<div>
+  <a href="https://github.com/matheusjreis">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusjreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjreis&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
