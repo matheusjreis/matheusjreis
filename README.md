@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-<p align="left"> Currenctly working as a full stack developer at ASA. </p>
+<p align="left"> Currenctly working as a .NET Backend developer at ASA. </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      <a href="https://www.w3schools.com/cs/" target="_blank"
