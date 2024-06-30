@@ -1,8 +1,8 @@
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Backend Developer from Brazil</h3>
 <p align="left">
 </p>
 
-<p align="left"> Currenctly working as a .NET Backend developer at ASA and studying at UFU. </p>
+<p align="left"> Currenctly working as a .NET Backend developer at ASA Digital and studying at UFU. </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
      <a href="https://www.w3schools.com/cs/" target="_blank"
@@ -30,4 +30,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusjreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<p align="left"> "Talk is cheap. Show me the code." </p>
 
