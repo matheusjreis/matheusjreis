@@ -30,5 +30,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusjreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<p align="left"> "Talk is cheap. Show me the code." </p>
+<p align="left"> "Talk is cheap. Show me the code." - Linus Torvalds.</p>
 
